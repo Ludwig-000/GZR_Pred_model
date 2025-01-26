@@ -8,3 +8,5 @@ How to run:
 - Settings:
 The model is pretrained, and i am still adjusting stuff, so for now the only adjustable metrics are on line 52 of the script 
 ( length of the generated text and the temperature )
+
+:)
