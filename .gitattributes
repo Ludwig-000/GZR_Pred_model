@@ -1,1 +1,2 @@
 saved_models/final_model(loss=[[:space:]]0.45[[:space:]]DIC[[:space:]]=[[:space:]]1500,[[:space:]]5[[:space:]]layers[[:space:]]V1.4).pth filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
